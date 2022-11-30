@@ -5,7 +5,7 @@
         bodyBgs[2] = "./assets/img/3.jpg";
         bodyBgs[3] = "./assets/img/4.jpg";
         bodyBgs[4] = "./assets/img/5.jpg";
-        //bodyBgs[5] = "/assets/img/6.jpg";
+        bodyBgs[5] = "/assets/img/6.jpg";
         //bodyBgs[6] = "/assets/img/7.jpg";
         //bodyBgs[7] = "/assets/img/8.jpg";
         //bodyBgs[8] = "/assets/img/9.jpg";
